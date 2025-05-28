@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "807427119321",
+    "firebase_url": "https://exam4-4ff56-default-rtdb.firebaseio.com",
+    "project_id": "exam4-4ff56",
+    "storage_bucket": "exam4-4ff56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807427119321:android:f6f3a7d21e729afccf86c8",
+        "android_client_info": {
+          "package_name": "com.example.exam4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807427119321-go3fdiukt8bsm1llka6nk2bjn8pao60b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPQhnHLbaNvBieQ49Thasnr5l-hhCsZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807427119321-go3fdiukt8bsm1llka6nk2bjn8pao60b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807427119321-2uufvrmpgegev4o6d8g21o22504d310q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imtihon4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807427119321:android:a557979e1e6dd0bdcf86c8",
+        "android_client_info": {
+          "package_name": "com.example.imtihon4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807427119321-go3fdiukt8bsm1llka6nk2bjn8pao60b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPQhnHLbaNvBieQ49Thasnr5l-hhCsZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807427119321-go3fdiukt8bsm1llka6nk2bjn8pao60b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807427119321-2uufvrmpgegev4o6d8g21o22504d310q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imtihon4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
